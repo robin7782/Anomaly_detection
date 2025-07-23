@@ -25,7 +25,7 @@ This project demonstrates a **training-free anomaly detection** approach using *
 
 ## 🔍 Sample Output
 
-![Cosine Distance Histogram](outputs/histogram.png)
+![Cosine Distance Histogram](Bildschirm­foto 2025-07-22 um 18.46.21.png)
 
 In this figure:
 - **Blue bars** represent cosine distances of normal test images to reference normals
